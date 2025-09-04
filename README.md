@@ -14,3 +14,6 @@ DURATION - 6 WEEKS
 BATCH - AG26
 
 OUTPUT:
+
+
+[student_report.pdf](https://github.com/user-attachments/files/22142703/student_report.pdf)
